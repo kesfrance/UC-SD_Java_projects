@@ -1,4 +1,4 @@
-# My UC_SD JAva projects
+# My UC_SD Java projects
 
 
 
